@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <!-- Sync required hals -->
+  <project path="packages/apps/DolbyAtmos" name="roms-experimental/android_packages_apps_DolbyAtmos" remote="github" revision="lineage-24.0" />
   <project path="hardware/xiaomi" name="LineageOS/android_hardware_xiaomi" remote="github" revision="lineage-24.0" />
 
   <!-- Sync common trees -->
